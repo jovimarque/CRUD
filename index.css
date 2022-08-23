@@ -1,0 +1,56 @@
+
+*{margin:0px; padding:0px;}
+
+#menu{
+
+	border:0.1em solid gray;
+	width:250px;
+	height: auto;
+	margin-left:0.4em;
+	margin-top:0.4em;
+	
+}
+
+ ul{
+	list-style: none;
+	padding:10px;
+	display: block;
+
+}
+
+li{
+	margin:10px;
+	text-align: center;
+}
+
+
+ li a{
+ 	color:black;
+ } 
+
+
+li a:hover{
+
+	color:gray;
+}
+
+#formularioRegistro{
+	width: 850px;
+	margin:0px auto;
+	border:1px solid black;
+	padding:10px;
+	
+
+}
+
+.cadastroBD{
+
+	width: 100%;
+	padding-bottom:0px;
+
+}
+
+h4{
+	text-align:center;
+	margin-bottom: 30px;
+}
